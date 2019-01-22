@@ -55,4 +55,6 @@ new FBAppLinkPackage()
    <br>
    pod 'react-native-fbapplink', :path => '../node_modules/react-native-fbapplink'
 
-
+   <br>
+   For any android errors look in react-native-fbapplink/android/build.gradle and match the dependencies/support libraries
+   <br>that are being used in your project.

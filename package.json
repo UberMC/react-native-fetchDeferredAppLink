@@ -1,0 +1,23 @@
+{
+  "name": "react-native-fbapplink",
+  "version": "1.0.0",
+  "description": "Fetch fb applinks",
+  "keywords": [
+    "react-native",
+    "screenshot",
+    "viewshot",
+    "view-snapshot",
+    "snapshot",
+    "rasterize"
+  ],
+  "author": "Trent Ewald <trent@caribu.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/react-native-view-shot.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}

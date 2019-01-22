@@ -8,7 +8,7 @@
     
       console.log(url);
 
-      //or console.log(queryString.parseUrl(url));
+      //or console.log(queryString.parseUrl(url)) to get an object with params;
       //npm i query-string
       //yarn add query-string
     });

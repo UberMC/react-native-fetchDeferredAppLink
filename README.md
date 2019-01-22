@@ -22,6 +22,13 @@ yarn add UberMC/react-native-fetchDeferredAppLink
 <B>Android</B>
 <br>
 <br>
+settings.gradle
+<br>
+include ':react-native-fbapplink'
+<br>
+project(':react-native-fbapplink').projectDir = new File(rootProject.projectDir, '../
+<br>
+<br>
 app/build.gradle
 <br>
 implementation project(':react-native-fbapplink')

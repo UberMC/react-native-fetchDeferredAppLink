@@ -20,9 +20,12 @@ yarn add UberMC/react-native-fetchDeferredAppLink
 
 
 <B>Android</B>
+<br>
+<br>
 app/build.gradle
 <br>
 implementation project(':react-native-fbapplink')
+<br>
 <br>
 MainApplication.java
 <br>
@@ -39,6 +42,7 @@ new FBAppLinkPackage()
    <br>
    
    <B>iOS</B>
+   <br>
    <br>
    podfile
    <br>

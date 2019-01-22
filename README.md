@@ -26,7 +26,7 @@ settings.gradle
 <br>
 include ':react-native-fbapplink'
 <br>
-project(':react-native-fbapplink').projectDir = new File(rootProject.projectDir, '../
+project(':react-native-fbapplink').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fbapplink/android')
 <br>
 <br>
 app/build.gradle
